@@ -1,0 +1,3 @@
+#display length of string# 
+Phrase = "Power learn project" 
+ Print(len(phrase))
