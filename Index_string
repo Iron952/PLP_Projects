@@ -1,0 +1,6 @@
+#Display character vof index#
+#Display of string if out of range#
+#Display if is a Empty string# 
+
+Print = "Live happily" 
+ Print(phrase[1]) 
