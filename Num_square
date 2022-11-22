@@ -1,5 +1,5 @@
 #display numbers and its squares #
-My_nums = ("1,2,3,4,5,6')
+My_nums = ("1,2,3,4,5,6")
  Print (pow(1,1)
  Print (pow(2,4)
  Print (pow(3,9)
